@@ -1,0 +1,17 @@
+{
+  "name": "express-https",
+  "version": "1.0.0",
+  "description": "Example site using https",
+  "main": "server.js",
+  "scripts": {
+    "test": "tape '**/*.spec.js'"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "4.16.2"
+  },
+  "devDependencies": {
+    "tape": "4.8.0"
+  }
+}
